@@ -1,0 +1,23 @@
+.main {
+  background-color: #54c5d0;
+}
+
+.main__filterBox {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 1rem;
+  min-width: 120px;
+}
+
+.main__filterBox__filterItem {
+  width: 100%;
+  flex: 1;
+  padding: 0.5rem;
+}
+
+.main__characterList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

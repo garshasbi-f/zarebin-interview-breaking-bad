@@ -1,0 +1,324 @@
+{
+  "characters": [
+    {
+      "char_id": 1,
+      "name": "Walter White",
+      "birthday": "09-07-1958",
+      "img": "characters/Walter.png",
+      "status": "Deceased",
+      "nickname": "Heisenberg"
+    },
+    {
+      "char_id": 2,
+      "name": "Jesse Pinkman",
+      "birthday": "09-07-1959",
+      "img": "characters/Jesse.jpeg",
+      "status": "Deceased",
+      "nickname": "maryam"
+    },
+    {
+      "char_id": 3,
+      "name": "Skyler White",
+      "birthday": "09-07-1960",
+      "img": "characters/Skyler.jpeg",
+      "status": "Deceased",
+      "nickname": "narges"
+    },
+    {
+      "char_id": 4,
+      "name": "Hank Schrader",
+      "birthday": "09-07-1961",
+      "img": "characters/Hank.jpeg",
+      "status": "Deceased",
+      "nickname": "reza"
+    },
+    {
+      "char_id": 5,
+      "name": "Saul Goodman",
+      "birthday": "09-07-1962",
+      "img": "characters/Saul.jpeg",
+      "status": "Deceased",
+      "nickname": "ahmad"
+    },
+    {
+      "char_id": 6,
+      "name": "Marie Schrader",
+      "birthday": "09-07-1963",
+      "img": "characters/Marie.jpeg",
+      "status": "Deceased",
+      "nickname": "saeed"
+    }
+  ],
+  "quote": [
+    {
+      "name": "Walter White",
+      "randomQuotes": [
+        {
+          "quote_id": 1,
+          "quote": "Funyuns are awesome."
+        },
+        {
+          "quote_id": 2,
+          "quote": "Ooooooh, Wire."
+        },
+        {
+          "quote_id": 3,
+          "quote": "I Prefer To See It As The Study Of Change"
+        },
+        {
+          "quote_id": 4,
+          "quote": "Smoking Marijuana, Eating Cheetos, And Masturbating Do Not Constitute Plans In My Book"
+        },
+        {
+          "quote_id": 5,
+          "quote": "I Sleep Just Fine"
+        },
+        {
+          "quote_id": 6,
+          "quote": "Stay Out Of My Territory"
+        },
+        {
+          "quote_id": 7,
+          "quote": "Because I Say So"
+        },
+        {
+          "quote_id": 8,
+          "quote": "Say My Name"
+        },
+        {
+          "quote_id": 9,
+          "quote": "I Am The One Who Knocks"
+        },
+        {
+          "quote_id": 10,
+          "quote": "I Won"
+        }
+      ]
+    },
+    {
+      "name": "Jesse Pinkman",
+      "randomQuotes": [
+        {
+          "quote_id": 1,
+          "quote": "Funyuns are awesome."
+        },
+        {
+          "quote_id": 2,
+          "quote": "Ooooooh, Wire."
+        },
+        {
+          "quote_id": 3,
+          "quote": "I Prefer To See It As The Study Of Change"
+        },
+        {
+          "quote_id": 4,
+          "quote": "Smoking Marijuana, Eating Cheetos, And Masturbating Do Not Constitute Plans In My Book"
+        },
+        {
+          "quote_id": 5,
+          "quote": "I Sleep Just Fine"
+        },
+        {
+          "quote_id": 6,
+          "quote": "Stay Out Of My Territory"
+        },
+        {
+          "quote_id": 7,
+          "quote": "Because I Say So"
+        },
+        {
+          "quote_id": 8,
+          "quote": "Say My Name"
+        },
+        {
+          "quote_id": 9,
+          "quote": "I Am The One Who Knocks"
+        },
+        {
+          "quote_id": 10,
+          "quote": "I Won"
+        }
+      ]
+    },
+    {
+      "name": "Skyler White",
+      "randomQuotes": [
+        {
+          "quote_id": 1,
+          "quote": "Funyuns are awesome."
+        },
+        {
+          "quote_id": 2,
+          "quote": "Ooooooh, Wire."
+        },
+        {
+          "quote_id": 3,
+          "quote": "I Prefer To See It As The Study Of Change"
+        },
+        {
+          "quote_id": 4,
+          "quote": "Smoking Marijuana, Eating Cheetos, And Masturbating Do Not Constitute Plans In My Book"
+        },
+        {
+          "quote_id": 5,
+          "quote": "I Sleep Just Fine"
+        },
+        {
+          "quote_id": 6,
+          "quote": "Stay Out Of My Territory"
+        },
+        {
+          "quote_id": 7,
+          "quote": "Because I Say So"
+        },
+        {
+          "quote_id": 8,
+          "quote": "Say My Name"
+        },
+        {
+          "quote_id": 9,
+          "quote": "I Am The One Who Knocks"
+        },
+        {
+          "quote_id": 10,
+          "quote": "I Won"
+        }
+      ]
+    },
+    {
+      "name": "Hank Schrader",
+      "randomQuotes": [
+        {
+          "quote_id": 1,
+          "quote": "Funyuns are awesome."
+        },
+        {
+          "quote_id": 2,
+          "quote": "Ooooooh, Wire."
+        },
+        {
+          "quote_id": 3,
+          "quote": "I Prefer To See It As The Study Of Change"
+        },
+        {
+          "quote_id": 4,
+          "quote": "Smoking Marijuana, Eating Cheetos, And Masturbating Do Not Constitute Plans In My Book"
+        },
+        {
+          "quote_id": 5,
+          "quote": "I Sleep Just Fine"
+        },
+        {
+          "quote_id": 6,
+          "quote": "Stay Out Of My Territory"
+        },
+        {
+          "quote_id": 7,
+          "quote": "Because I Say So"
+        },
+        {
+          "quote_id": 8,
+          "quote": "Say My Name"
+        },
+        {
+          "quote_id": 9,
+          "quote": "I Am The One Who Knocks"
+        },
+        {
+          "quote_id": 10,
+          "quote": "I Won"
+        }
+      ]
+    },
+    {
+      "name": "Saul Goodman",
+      "randomQuotes": [
+        {
+          "quote_id": 1,
+          "quote": "Funyuns are awesome."
+        },
+        {
+          "quote_id": 2,
+          "quote": "Ooooooh, Wire."
+        },
+        {
+          "quote_id": 3,
+          "quote": "I Prefer To See It As The Study Of Change"
+        },
+        {
+          "quote_id": 4,
+          "quote": "Smoking Marijuana, Eating Cheetos, And Masturbating Do Not Constitute Plans In My Book"
+        },
+        {
+          "quote_id": 5,
+          "quote": "I Sleep Just Fine"
+        },
+        {
+          "quote_id": 6,
+          "quote": "Stay Out Of My Territory"
+        },
+        {
+          "quote_id": 7,
+          "quote": "Because I Say So"
+        },
+        {
+          "quote_id": 8,
+          "quote": "Say My Name"
+        },
+        {
+          "quote_id": 9,
+          "quote": "I Am The One Who Knocks"
+        },
+        {
+          "quote_id": 10,
+          "quote": "I Won"
+        }
+      ]
+    },
+    {
+      "name": "Marie Schrader",
+      "randomQuotes": [
+        {
+          "quote_id": 1,
+          "quote": "Funyuns are awesome."
+        },
+        {
+          "quote_id": 2,
+          "quote": "Ooooooh, Wire."
+        },
+        {
+          "quote_id": 3,
+          "quote": "I Prefer To See It As The Study Of Change"
+        },
+        {
+          "quote_id": 4,
+          "quote": "Smoking Marijuana, Eating Cheetos, And Masturbating Do Not Constitute Plans In My Book"
+        },
+        {
+          "quote_id": 5,
+          "quote": "I Sleep Just Fine"
+        },
+        {
+          "quote_id": 6,
+          "quote": "Stay Out Of My Territory"
+        },
+        {
+          "quote_id": 7,
+          "quote": "Because I Say So"
+        },
+        {
+          "quote_id": 8,
+          "quote": "Say My Name"
+        },
+        {
+          "quote_id": 9,
+          "quote": "I Am The One Who Knocks"
+        },
+        {
+          "quote_id": 10,
+          "quote": "I Won"
+        }
+      ]
+    }
+  ]
+}
