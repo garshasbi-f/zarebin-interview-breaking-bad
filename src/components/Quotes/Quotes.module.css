@@ -1,0 +1,79 @@
+.QuoteCard {
+  background-color: #ffffff;
+  display: flex;
+  width: 50rem;
+  flex-direction: column;
+  height: 30rem;
+  border: 1rem solid #54c5d0;
+  border-radius: 2rem;
+  position: relative;
+  margin: 10rem auto;
+  text-align: center;
+}
+
+.QuoteCard h4 {
+  padding-top: 5rem;
+}
+
+.QuoteCard h3 {
+  padding-top: 5rem;
+  margin: 1rem 3rem;
+}
+
+.QuoteCard div {
+  padding-top: 8rem;
+}
+
+.QuoteCard__newBtn {
+  width: 20rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  background-color: #ff8c00;
+  color: white;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.QuoteCard__backBtn {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.QuoteCard__backBtn button {
+  width: 20rem;
+  height: 3rem;
+  font-size: 1.4rem;
+  background-color: #54c5d0;
+  color: white;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+  .QuoteCard {
+    background-color: #ffffff;
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    height: 30rem;
+    border: 1rem solid #54c5d0;
+    border-radius: 2rem;
+    position: relative;
+    margin: 10rem auto;
+    text-align: center;
+  }
+
+  .QuoteCard__newBtn {
+    width: 15rem;
+    height: 3rem;
+    font-size: 1.4rem;
+    background-color: #ff8c00;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+  }
+}

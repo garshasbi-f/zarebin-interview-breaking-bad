@@ -6,3 +6,8 @@ export const getAllCharactersFromServer = async () => {
   return response.data;
 };
 
+export const getQuotesFromServer = async (characterName) => {
+  const url = `http://localhost:3001/quote?name=${characterName}`;
+  const response = await axios.get(url);
+  return response.data[0].randomQuotes;
+};
